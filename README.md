@@ -1,6 +1,14 @@
 # Web programming:
 
+__Team Members:__
+* Shawn 
+* Tiya
+* Vaibhav
+* Madiha 
+* Yousef
+
 __Game mode:__
+
 * 2D
 * LAN multiplayer/ online
 
